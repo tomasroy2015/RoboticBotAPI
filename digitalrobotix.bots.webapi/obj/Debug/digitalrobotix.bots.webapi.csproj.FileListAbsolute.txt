@@ -1,0 +1,86 @@
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\csc.exe
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\System.Collections.Immutable.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\vbc.exe
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\VBCSCompiler.exe
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\VBCSCompiler.exe.config
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webapi.dll.config
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webapi.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webapi.pdb
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.telegram.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.AspNet.WebHooks.Common.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.AspNet.WebHooks.Receivers.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Newtonsoft.Json.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\System.Net.Http.Formatting.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\System.Web.Http.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\System.Web.Http.WebHost.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Telegram.Bot.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.telegram.pdb
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.AspNet.WebHooks.Common.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.AspNet.WebHooks.Receivers.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Newtonsoft.Json.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\System.Net.Http.Formatting.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\System.Web.Http.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\System.Web.Http.WebHost.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\Telegram.Bot.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\obj\Debug\digitalrobotix.bots.webapi.csprojResolveAssemblyReference.cache
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\obj\Debug\digitalrobotix.bots.webapi.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\obj\Debug\digitalrobotix.bots.webapi.pdb
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.slack.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.slack.pdb
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\SlackConnector.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\RestSharp.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\websocket-sharp-with-proxy-support.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webapi\bin\RestSharp.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\csc.exe
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\System.Collections.Immutable.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\vbc.exe
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\VBCSCompiler.exe
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\roslyn\VBCSCompiler.exe.config
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webapi.dll.config
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webapi.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webapi.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.slack.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.telegram.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.AspNet.WebHooks.Common.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.AspNet.WebHooks.Receivers.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Newtonsoft.Json.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\System.Net.Http.Formatting.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\System.Web.Http.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\System.Web.Http.WebHost.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\SlackConnector.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Telegram.Bot.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\RestSharp.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\websocket-sharp-with-proxy-support.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.slack.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.slack.dll.config
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.telegram.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\digitalrobotix.bots.webhooks.telegram.dll.config
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.AspNet.WebHooks.Common.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.AspNet.WebHooks.Receivers.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Newtonsoft.Json.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\System.Net.Http.Formatting.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\System.Web.Http.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\System.Web.Http.WebHost.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\Telegram.Bot.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\bin\RestSharp.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\obj\Debug\digitalrobotix.bots.webapi.csprojResolveAssemblyReference.cache
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\obj\Debug\digitalrobotix.bots.webapi.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webapi\obj\Debug\digitalrobotix.bots.webapi.pdb

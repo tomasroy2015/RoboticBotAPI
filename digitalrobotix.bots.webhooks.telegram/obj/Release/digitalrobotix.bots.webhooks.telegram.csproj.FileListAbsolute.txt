@@ -1,0 +1,35 @@
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\digitalrobotix.bots.webhooks.telegram.dll.config
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\digitalrobotix.bots.webhooks.telegram.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\digitalrobotix.bots.webhooks.telegram.pdb
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Microsoft.AspNet.WebHooks.Common.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Microsoft.AspNet.WebHooks.Receivers.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Newtonsoft.Json.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\System.Net.Http.Formatting.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\System.Web.Http.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Telegram.Bot.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Microsoft.AspNet.WebHooks.Common.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Microsoft.AspNet.WebHooks.Receivers.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Newtonsoft.Json.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\System.Net.Http.Formatting.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\System.Web.Http.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Telegram.Bot.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Release\digitalrobotix.bots.webhooks.telegram.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Release\digitalrobotix.bots.webhooks.telegram.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\digitalrobotix.bots.webhooks.telegram.dll.config
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\digitalrobotix.bots.webhooks.telegram.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\digitalrobotix.bots.webhooks.telegram.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Microsoft.AspNet.WebHooks.Common.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Microsoft.AspNet.WebHooks.Receivers.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Newtonsoft.Json.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\System.Net.Http.Formatting.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\System.Web.Http.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Telegram.Bot.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Microsoft.AspNet.WebHooks.Common.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Microsoft.AspNet.WebHooks.Receivers.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Newtonsoft.Json.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\System.Net.Http.Formatting.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\System.Web.Http.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Release\Telegram.Bot.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Release\digitalrobotix.bots.webhooks.telegram.csprojResolveAssemblyReference.cache
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Release\digitalrobotix.bots.webhooks.telegram.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Release\digitalrobotix.bots.webhooks.telegram.pdb

@@ -1,0 +1,15 @@
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\digitalrobotix.bots.webhooks.skype.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\digitalrobotix.bots.webhooks.skype.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\Microsoft.AspNet.WebHooks.Common.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\Newtonsoft.Json.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\System.Net.Http.Formatting.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\System.Web.Http.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\Microsoft.AspNet.WebHooks.Common.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\Newtonsoft.Json.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\System.Net.Http.Formatting.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\bin\Debug\System.Web.Http.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\obj\Debug\digitalrobotix.bots.webhooks.skype.csprojResolveAssemblyReference.cache
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\obj\Debug\digitalrobotix.bots.webhooks.skype.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.skype\obj\Debug\digitalrobotix.bots.webhooks.skype.pdb

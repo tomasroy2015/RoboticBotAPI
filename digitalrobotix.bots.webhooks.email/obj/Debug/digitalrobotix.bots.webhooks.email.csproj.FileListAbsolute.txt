@@ -1,0 +1,15 @@
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\digitalrobotix.bots.webhooks.email.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\digitalrobotix.bots.webhooks.email.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\Microsoft.AspNet.WebHooks.Common.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\Newtonsoft.Json.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\System.Net.Http.Formatting.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\System.Web.Http.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\Microsoft.AspNet.WebHooks.Common.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\Newtonsoft.Json.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\System.Net.Http.Formatting.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\bin\Debug\System.Web.Http.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\obj\Debug\digitalrobotix.bots.webhooks.email.csprojResolveAssemblyReference.cache
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\obj\Debug\digitalrobotix.bots.webhooks.email.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.email\obj\Debug\digitalrobotix.bots.webhooks.email.pdb

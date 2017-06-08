@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitalrobotix.bots.webhooks.telegram", "digitalrobotix.bots.webhooks.telegram\digitalrobotix.bots.webhooks.telegram.csproj", "{5C51196F-DD46-4E23-9E0E-4EA4ECFC0622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitalrobotix.bots.webapi", "digitalrobotix.bots.webapi\digitalrobotix.bots.webapi.csproj", "{90DD3B4C-CFF0-4141-AA0A-5F14FC36DF6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitalrobotix.bots.webhooks.skype", "digitalrobotix.bots.webhooks.skype\digitalrobotix.bots.webhooks.skype.csproj", "{768C9287-466C-47BE-AAC5-CEEB81A0AF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitalrobotix.bots.webhooks.slack", "digitalrobotix.bots.webhooks.slack\digitalrobotix.bots.webhooks.slack.csproj", "{AC5FBCB1-3D1D-4993-A9E6-402D2F4866C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitalrobotix.bots.webhooks.sms", "digitalrobotix.bots.webhooks.sms\digitalrobotix.bots.webhooks.sms.csproj", "{7BAB2324-B0BC-4B0C-AA50-F8C4B8D12AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitalrobotix.bots.webhooks.email", "digitalrobotix.bots.webhooks.email\digitalrobotix.bots.webhooks.email.csproj", "{8AB42BC2-6DCF-4F29-9EB1-F6818A8316C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C51196F-DD46-4E23-9E0E-4EA4ECFC0622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C51196F-DD46-4E23-9E0E-4EA4ECFC0622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C51196F-DD46-4E23-9E0E-4EA4ECFC0622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C51196F-DD46-4E23-9E0E-4EA4ECFC0622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DD3B4C-CFF0-4141-AA0A-5F14FC36DF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DD3B4C-CFF0-4141-AA0A-5F14FC36DF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DD3B4C-CFF0-4141-AA0A-5F14FC36DF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DD3B4C-CFF0-4141-AA0A-5F14FC36DF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768C9287-466C-47BE-AAC5-CEEB81A0AF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768C9287-466C-47BE-AAC5-CEEB81A0AF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768C9287-466C-47BE-AAC5-CEEB81A0AF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768C9287-466C-47BE-AAC5-CEEB81A0AF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5FBCB1-3D1D-4993-A9E6-402D2F4866C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5FBCB1-3D1D-4993-A9E6-402D2F4866C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5FBCB1-3D1D-4993-A9E6-402D2F4866C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5FBCB1-3D1D-4993-A9E6-402D2F4866C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAB2324-B0BC-4B0C-AA50-F8C4B8D12AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAB2324-B0BC-4B0C-AA50-F8C4B8D12AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAB2324-B0BC-4B0C-AA50-F8C4B8D12AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAB2324-B0BC-4B0C-AA50-F8C4B8D12AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB42BC2-6DCF-4F29-9EB1-F6818A8316C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB42BC2-6DCF-4F29-9EB1-F6818A8316C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB42BC2-6DCF-4F29-9EB1-F6818A8316C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB42BC2-6DCF-4F29-9EB1-F6818A8316C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://digitalrobotix.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = digitalrobotix.bots.webhooks.telegram\\digitalrobotix.bots.webhooks.telegram.csproj
+		SccProjectName1 = digitalrobotix.bots.webhooks.telegram
+		SccLocalPath1 = digitalrobotix.bots.webhooks.telegram
+		SccProjectUniqueName2 = digitalrobotix.bots.webapi\\digitalrobotix.bots.webapi.csproj
+		SccProjectName2 = digitalrobotix.bots.webapi
+		SccLocalPath2 = digitalrobotix.bots.webapi
+		SccProjectUniqueName3 = digitalrobotix.bots.webhooks.skype\\digitalrobotix.bots.webhooks.skype.csproj
+		SccProjectName3 = digitalrobotix.bots.webhooks.skype
+		SccLocalPath3 = digitalrobotix.bots.webhooks.skype
+		SccProjectUniqueName4 = digitalrobotix.bots.webhooks.slack\\digitalrobotix.bots.webhooks.slack.csproj
+		SccProjectName4 = digitalrobotix.bots.webhooks.slack
+		SccLocalPath4 = digitalrobotix.bots.webhooks.slack
+		SccProjectUniqueName5 = digitalrobotix.bots.webhooks.sms\\digitalrobotix.bots.webhooks.sms.csproj
+		SccProjectName5 = digitalrobotix.bots.webhooks.sms
+		SccLocalPath5 = digitalrobotix.bots.webhooks.sms
+		SccProjectUniqueName6 = digitalrobotix.bots.webhooks.email\\digitalrobotix.bots.webhooks.email.csproj
+		SccProjectName6 = digitalrobotix.bots.webhooks.email
+		SccLocalPath6 = digitalrobotix.bots.webhooks.email
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\digitalrobotix.bots.webhooks.telegram.dll.config
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\digitalrobotix.bots.webhooks.telegram.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\digitalrobotix.bots.webhooks.telegram.pdb
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Microsoft.AspNet.WebHooks.Common.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Newtonsoft.Json.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\System.Web.Http.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Telegram.Bot.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Microsoft.AspNet.WebHooks.Common.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Newtonsoft.Json.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\System.Web.Http.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Telegram.Bot.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Debug\digitalrobotix.bots.webhooks.telegram.csprojResolveAssemblyReference.cache
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Debug\digitalrobotix.bots.webhooks.telegram.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Debug\digitalrobotix.bots.webhooks.telegram.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\digitalrobotix.bots.webhooks.telegram.dll.config
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\digitalrobotix.bots.webhooks.telegram.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\digitalrobotix.bots.webhooks.telegram.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Microsoft.AspNet.WebHooks.Common.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Newtonsoft.Json.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\System.Net.Http.Formatting.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\System.Web.Http.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Telegram.Bot.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Microsoft.AspNet.WebHooks.Common.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Newtonsoft.Json.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\System.Net.Http.Formatting.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\System.Web.Http.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\bin\Debug\Telegram.Bot.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Debug\digitalrobotix.bots.webhooks.telegram.csprojResolveAssemblyReference.cache
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Debug\digitalrobotix.bots.webhooks.telegram.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.telegram\obj\Debug\digitalrobotix.bots.webhooks.telegram.pdb

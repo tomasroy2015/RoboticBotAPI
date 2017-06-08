@@ -1,0 +1,15 @@
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\digitalrobotix.bots.webhooks.sms.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\digitalrobotix.bots.webhooks.sms.pdb
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\Microsoft.AspNet.WebHooks.Common.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\Newtonsoft.Json.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\System.Net.Http.Formatting.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\System.Web.Http.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\Microsoft.AspNet.WebHooks.Common.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\Microsoft.AspNet.WebHooks.Receivers.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\Newtonsoft.Json.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\System.Net.Http.Formatting.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\bin\Debug\System.Web.Http.xml
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\obj\Debug\digitalrobotix.bots.webhooks.sms.csprojResolveAssemblyReference.cache
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\obj\Debug\digitalrobotix.bots.webhooks.sms.dll
+E:\Iman Poy\WebAPI\digitalrobotix.bots.webhooks.sms\obj\Debug\digitalrobotix.bots.webhooks.sms.pdb

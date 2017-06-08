@@ -1,0 +1,15 @@
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\digitalrobotix.bots.webhooks.email.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\digitalrobotix.bots.webhooks.email.pdb
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\Microsoft.AspNet.WebHooks.Common.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\Microsoft.AspNet.WebHooks.Receivers.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\Newtonsoft.Json.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\System.Net.Http.Formatting.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\System.Web.Http.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\Microsoft.AspNet.WebHooks.Common.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\Microsoft.AspNet.WebHooks.Receivers.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\Newtonsoft.Json.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\System.Net.Http.Formatting.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\bin\Release\System.Web.Http.xml
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\obj\Release\digitalrobotix.bots.webhooks.email.csprojResolveAssemblyReference.cache
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\obj\Release\digitalrobotix.bots.webhooks.email.dll
+C:\Development\azuredeployer\Code\WebAPI\digitalrobotix.bots.webhooks.email\obj\Release\digitalrobotix.bots.webhooks.email.pdb
